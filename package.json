@@ -1,0 +1,12 @@
+{
+  "name": "nick",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "script.js",
+  "scripts": {
+    "test": "start",
+    "start": "node script.js"
+  },
+  "author": "Nick chachua",
+  "license": "ISC"
+}
